@@ -1,2 +1,3 @@
-# yocto-builder
-Docker image for building yocto images
+To build:
+
+`docker build -t yocto-builder:latest .`
